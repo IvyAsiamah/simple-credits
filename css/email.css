@@ -1,0 +1,31 @@
+.credits_email {
+	width
+	border-radius:6px!important;
+	background-color:#fdfdfd;
+	border:1px solid #dcdcdc;
+	border-radius:6px!important;
+}
+
+.credits_email_header {
+	background-color:#557da1;
+	color:#ffffff;
+	border-top-left-radius:6px!important;
+	border-top-right-radius:6px!important;
+	border-bottom:0;
+	font-family:Arial;
+	font-weight:bold;
+	line-height:100%;
+	vertical-align:middle;
+}
+
+.credits_email_header h1 {
+	color:#ffffff;
+	margin:0;
+	padding:28px 24px;
+	display:block;
+	font-family:Arial;
+	font-size:30px;
+	font-weight:bold;
+	text-align:left;
+	line-height:150%;
+}
