@@ -3,7 +3,7 @@ Contributors: ekussberg
 Tags: simple credits, woocommerce, credits, shop
 Requires at least: 3.4.0
 Tested up to: 4.4.0
-Stable tag: v4.0
+Stable tag: v3.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
