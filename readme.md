@@ -5,7 +5,6 @@
 * Tested up to: 4.4.0
 * Stable tag: v3.5
 * License: GPLv3
-* Demo: http://demo.wse-group.eu
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Simple Credits is the plugin for WooCommerce in WordPress. This plugin creates a credits payment system in the WooCommerce shop.
